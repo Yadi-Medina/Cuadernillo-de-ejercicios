@@ -1,0 +1,15 @@
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.csproj.AssemblyReference.cache
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.AssemblyInfoInputs.cache
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.AssemblyInfo.cs
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.csproj.CoreCompileInputs.cache
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\bin\Debug\net6.0\practica_#4_swicht.exe
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\bin\Debug\net6.0\practica_#4_swicht.deps.json
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\bin\Debug\net6.0\practica_#4_swicht.runtimeconfig.json
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\bin\Debug\net6.0\practica_#4_swicht.dll
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\bin\Debug\net6.0\practica_#4_swicht.pdb
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.dll
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\refint\practica_#4_swicht.dll
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.pdb
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\practica_#4_swicht.genruntimeconfig.cache
+C:\Users\ARTRD\Desktop\practicas\practica_#4_swicht\obj\Debug\net6.0\ref\practica_#4_swicht.dll
